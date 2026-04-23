@@ -4,14 +4,19 @@ Analyzed Electric Vehicles Sales and Usage using Tableau and MS-Excel
 📊 Electric Vehicles Data Analysis (Tableau Dashboard)
 🚀 Project Overview
 
-This project presents an interactive Electric Vehicles (EV) Data Analysis Dashboard built using Tableau. The goal is to analyze EV adoption trends, identify key patterns, and generate actionable insights related to vehicle growth, geography, manufacturers, and policy impact.
+This project presents an interactive Electric Vehicles (EV) Data Analysis Dashboard built using Tableau.
+The goal is to analyze EV adoption trends, identify key patterns, and generate actionable insights related to vehicle growth, geography, manufacturers, and policy impact.
 
 🎯 Objectives
 Analyze EV adoption trends over time
+
 Identify top-performing states and regions
+
 Compare BEV vs PHEV distribution
+
 Evaluate manufacturer and model performance
 Understand the impact of CAFV eligibility
+
 📁 Dataset Description
 
 The dataset contains information on:
